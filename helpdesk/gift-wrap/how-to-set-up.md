@@ -26,7 +26,7 @@ Gift Wrap adds an option inside the cart drawer that lets customers request gift
 
 <!-- screenshot: Gift wrap menu item in the Cart Editor sidebar | page: /cart-editor | element: .gift-wrap-menu | annotate: yes -->
 
-![Open gift wrap settings](.gitbook/assets/gift-wrap/step-1.png)
+![Open gift wrap settings](/.gitbook/assets/gift-wrap/step-1.png)
 
 ### Step 2: Configure the Product Name and Title
 
@@ -35,7 +35,7 @@ Gift Wrap adds an option inside the cart drawer that lets customers request gift
 
 <!-- screenshot: Product name and title fields for gift wrap | page: /cart-editor | element: .gift-wrap-name-title | annotate: yes -->
 
-![Product name and title](.gitbook/assets/gift-wrap/step-2.png)
+![Product name and title](/.gitbook/assets/gift-wrap/step-2.png)
 
 ### Step 3: Set the Price and Image
 
@@ -44,7 +44,7 @@ Gift Wrap adds an option inside the cart drawer that lets customers request gift
 
 <!-- screenshot: Price field and image selector for gift wrap | page: /cart-editor | element: .gift-wrap-price-image | annotate: yes -->
 
-![Price and image settings](.gitbook/assets/gift-wrap/step-3.png)
+![Price and image settings](/.gitbook/assets/gift-wrap/step-3.png)
 
 ### Step 4: Preview and Save
 
@@ -53,6 +53,6 @@ Gift Wrap adds an option inside the cart drawer that lets customers request gift
 
 <!-- screenshot: Preview showing gift wrap option in cart drawer with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/gift-wrap/step-4.png)
+![Preview and save](/.gitbook/assets/gift-wrap/step-4.png)
 
 Your gift wrap option is now available in the cart drawer. Customers can add it with a single click, making every order feel special! 🚀

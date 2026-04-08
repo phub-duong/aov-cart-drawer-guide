@@ -28,7 +28,7 @@ The Design settings let you control the overall visual appearance of your cart d
 
 <!-- screenshot: Choose template modal showing Classic and Minimal options | page: /cart-editor | element: .choose-template-modal | annotate: yes -->
 
-![Choose template](.gitbook/assets/design/step-1.png)
+![Choose template](/.gitbook/assets/design/step-1.png)
 
 ### Step 2: Select a Preset Color Scheme
 
@@ -40,7 +40,7 @@ The Design settings let you control the overall visual appearance of your cart d
 
 <!-- screenshot: Preset color options and Auto-match theme button | page: /cart-editor | element: .design-preset-section | annotate: yes -->
 
-![Preset color schemes](.gitbook/assets/design/step-2.png)
+![Preset color schemes](/.gitbook/assets/design/step-2.png)
 
 ### Step 3: Customize Background Colors
 
@@ -51,7 +51,7 @@ The Design settings let you control the overall visual appearance of your cart d
 
 <!-- screenshot: Background color pickers for header, body, and footer | page: /cart-editor | element: .design-background-section | annotate: yes -->
 
-![Background colors](.gitbook/assets/design/step-3.png)
+![Background colors](/.gitbook/assets/design/step-3.png)
 
 ### Step 4: Customize Button, Text, and Price Colors
 
@@ -72,7 +72,7 @@ The Design settings let you control the overall visual appearance of your cart d
 
 <!-- screenshot: Button, general, and price color settings | page: /cart-editor | element: .design-colors-section | annotate: yes -->
 
-![Button, text, and price colors](.gitbook/assets/design/step-4.png)
+![Button, text, and price colors](/.gitbook/assets/design/step-4.png)
 
 ### Step 5: Add Custom CSS and Save
 
@@ -82,6 +82,6 @@ The Design settings let you control the overall visual appearance of your cart d
 
 <!-- screenshot: Custom CSS field and Save button | page: /cart-editor | element: .design-custom-css | annotate: yes -->
 
-![Custom CSS and save](.gitbook/assets/design/step-5.png)
+![Custom CSS and save](/.gitbook/assets/design/step-5.png)
 
 Your cart drawer design is now customized. A well-branded cart creates trust and keeps customers engaged all the way to checkout! 🚀

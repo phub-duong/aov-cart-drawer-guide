@@ -23,7 +23,7 @@ Trust Badges are small icons displayed in the cart drawer that reassure customer
 
 <!-- screenshot: Trust badges menu item in the Cart Editor sidebar | page: /cart-editor | element: .trust-badges-menu | annotate: yes -->
 
-![Open trust badges settings](.gitbook/assets/trust-badges/step-1.png)
+![Open trust badges settings](/.gitbook/assets/trust-badges/step-1.png)
 
 ### Step 2: Select Icons
 
@@ -33,7 +33,7 @@ Trust Badges are small icons displayed in the cart drawer that reassure customer
 
 <!-- screenshot: Select icons modal with available trust badge options | page: /cart-editor | element: .trust-badges-icon-selector | annotate: yes -->
 
-![Select trust badge icons](.gitbook/assets/trust-badges/step-2.png)
+![Select trust badge icons](/.gitbook/assets/trust-badges/step-2.png)
 
 ### Step 3: Upload a Custom Badge and Set Icon Size
 
@@ -48,7 +48,7 @@ Trust Badges are small icons displayed in the cart drawer that reassure customer
 
 <!-- screenshot: Upload badge area and icon size selector | page: /cart-editor | element: .trust-badges-upload | annotate: yes -->
 
-![Upload badge and icon size](.gitbook/assets/trust-badges/step-3.png)
+![Upload badge and icon size](/.gitbook/assets/trust-badges/step-3.png)
 
 ### Step 4: Preview and Save
 
@@ -57,6 +57,6 @@ Trust Badges are small icons displayed in the cart drawer that reassure customer
 
 <!-- screenshot: Preview showing trust badges in cart drawer footer with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/trust-badges/step-4.png)
+![Preview and save](/.gitbook/assets/trust-badges/step-4.png)
 
 Your trust badges are now visible in the cart drawer. These small icons make a big difference in building customer confidence at checkout! 🚀

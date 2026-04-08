@@ -27,7 +27,7 @@ Slide Cart Offer integrates with the **AOV.ai Free Gifts** app to display promot
 
 <!-- screenshot: Slide cart offer page showing install status and Install app button | page: /cart-editor | element: .slide-cart-offer-install | annotate: yes -->
 
-![Install AOV Free Gifts app](.gitbook/assets/slide-cart-offer/step-1.png)
+![Install AOV Free Gifts app](/.gitbook/assets/slide-cart-offer/step-1.png)
 
 ### Step 2: Create a Promotion Campaign
 
@@ -42,7 +42,7 @@ Slide Cart Offer integrates with the **AOV.ai Free Gifts** app to display promot
 
 <!-- screenshot: AOV Free Gifts app campaign creation | page: /free-gift | element: .free-gift-campaigns | annotate: no -->
 
-![Create promotion campaign](.gitbook/assets/slide-cart-offer/step-2.png)
+![Create promotion campaign](/.gitbook/assets/slide-cart-offer/step-2.png)
 
 ### Step 3: Enable the Today's Offer Tab
 
@@ -52,7 +52,7 @@ Slide Cart Offer integrates with the **AOV.ai Free Gifts** app to display promot
 
 <!-- screenshot: Today's offer tab with Enable button | page: /cart-editor | element: .slide-cart-offer-enable | annotate: yes -->
 
-![Enable Today's offer tab](.gitbook/assets/slide-cart-offer/step-3.png)
+![Enable Today's offer tab](/.gitbook/assets/slide-cart-offer/step-3.png)
 
 ### Step 4: Preview and Save
 
@@ -62,6 +62,6 @@ Slide Cart Offer integrates with the **AOV.ai Free Gifts** app to display promot
 
 <!-- screenshot: Preview showing slide cart offer with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/slide-cart-offer/step-4.png)
+![Preview and save](/.gitbook/assets/slide-cart-offer/step-4.png)
 
 Your slide cart offer is now connected to the AOV Free Gifts app. Customers will see your promotional campaigns directly inside the cart drawer! 🚀

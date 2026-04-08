@@ -28,7 +28,7 @@ Shipping Protection adds an option inside the cart drawer that lets customers pr
 
 <!-- screenshot: Shipping protection menu item in the Cart Editor sidebar | page: /cart-editor | element: .shipping-protection-menu | annotate: yes -->
 
-![Open shipping protection settings](.gitbook/assets/shipping-protection/step-1.png)
+![Open shipping protection settings](/.gitbook/assets/shipping-protection/step-1.png)
 
 ### Step 2: Configure the Title and Description
 
@@ -37,7 +37,7 @@ Shipping Protection adds an option inside the cart drawer that lets customers pr
 
 <!-- screenshot: Title and description fields for shipping protection | page: /cart-editor | element: .shipping-protection-title-desc | annotate: yes -->
 
-![Title and description](.gitbook/assets/shipping-protection/step-2.png)
+![Title and description](/.gitbook/assets/shipping-protection/step-2.png)
 
 ### Step 3: Set the Price and Tooltip
 
@@ -46,7 +46,7 @@ Shipping Protection adds an option inside the cart drawer that lets customers pr
 
 <!-- screenshot: Price and tooltip content fields | page: /cart-editor | element: .shipping-protection-price-tooltip | annotate: yes -->
 
-![Price and tooltip settings](.gitbook/assets/shipping-protection/step-3.png)
+![Price and tooltip settings](/.gitbook/assets/shipping-protection/step-3.png)
 
 ### Step 4: Add a Product Image and Save
 
@@ -57,6 +57,6 @@ Shipping Protection adds an option inside the cart drawer that lets customers pr
 
 <!-- screenshot: Product image selector, disclaimer, and Save button | page: /cart-editor | element: .shipping-protection-image-section | annotate: yes -->
 
-![Product image and save](.gitbook/assets/shipping-protection/step-4.png)
+![Product image and save](/.gitbook/assets/shipping-protection/step-4.png)
 
 Your shipping protection option is now available in the cart drawer. Customers can opt in with a single click for added peace of mind! 🚀

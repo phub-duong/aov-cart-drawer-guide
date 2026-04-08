@@ -25,7 +25,7 @@ Upsell Products lets you display additional product recommendations inside the c
 
 <!-- screenshot: Upsell products menu item in the Cart Editor sidebar | page: /cart-editor | element: .upsell-products-menu | annotate: yes -->
 
-![Open upsell products settings](.gitbook/assets/upsell-products/step-1.png)
+![Open upsell products settings](/.gitbook/assets/upsell-products/step-1.png)
 
 ### Step 2: Choose a Product Selection Method
 
@@ -38,7 +38,7 @@ Upsell Products lets you display additional product recommendations inside the c
 
 <!-- screenshot: Product selection method with AI, Best sellers, and Manual options | page: /cart-editor | element: .upsell-product-selection | annotate: yes -->
 
-![Product selection method](.gitbook/assets/upsell-products/step-2.png)
+![Product selection method](/.gitbook/assets/upsell-products/step-2.png)
 
 ### Step 3: Configure Upsell Settings
 
@@ -50,7 +50,7 @@ Upsell Products lets you display additional product recommendations inside the c
 
 <!-- screenshot: Upsell settings with title, button label, and toggle options | page: /cart-editor | element: .upsell-settings-section | annotate: yes -->
 
-![Upsell settings](.gitbook/assets/upsell-products/step-3.png)
+![Upsell settings](/.gitbook/assets/upsell-products/step-3.png)
 
 ### Step 4: Customize Upsell Design
 
@@ -66,7 +66,7 @@ Upsell Products lets you display additional product recommendations inside the c
 
 <!-- screenshot: Upsell design settings with color pickers and border options | page: /cart-editor | element: .upsell-design-section | annotate: yes -->
 
-![Upsell design settings](.gitbook/assets/upsell-products/step-4.png)
+![Upsell design settings](/.gitbook/assets/upsell-products/step-4.png)
 
 ### Step 5: Preview and Save
 
@@ -75,6 +75,6 @@ Upsell Products lets you display additional product recommendations inside the c
 
 <!-- screenshot: Preview showing upsell products section in cart drawer with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/upsell-products/step-5.png)
+![Preview and save](/.gitbook/assets/upsell-products/step-5.png)
 
 Your upsell products are now active. Watch your average order value grow as customers discover and add complementary items right from the cart! 🚀

@@ -27,7 +27,7 @@ The Rewards Bar is a visual progress bar inside the cart drawer that motivates c
 
 <!-- screenshot: Rewards bar menu with tiered reward type selector | page: /cart-editor | element: .reward-bar-type-section | annotate: yes -->
 
-![Open rewards bar and choose type](.gitbook/assets/rewards-bar/step-1.png)
+![Open rewards bar and choose type](/.gitbook/assets/rewards-bar/step-1.png)
 
 ### Step 2: Set Up Reward Tiers
 
@@ -43,7 +43,7 @@ The Rewards Bar is a visual progress bar inside the cart drawer that motivates c
 
 <!-- screenshot: Tier setup with reward type, threshold, and discount options | page: /cart-editor | element: .reward-bar-tiers | annotate: yes -->
 
-![Reward tiers setup](.gitbook/assets/rewards-bar/step-2.png)
+![Reward tiers setup](/.gitbook/assets/rewards-bar/step-2.png)
 
 ### Step 3: Configure Content Labels
 
@@ -57,7 +57,7 @@ The Rewards Bar is a visual progress bar inside the cart drawer that motivates c
 
 <!-- screenshot: Content labels with title, reward, and message fields showing variables | page: /cart-editor | element: .reward-bar-content | annotate: yes -->
 
-![Content labels](.gitbook/assets/rewards-bar/step-3.png)
+![Content labels](/.gitbook/assets/rewards-bar/step-3.png)
 
 ### Step 4: Customize Colors and Style
 
@@ -74,7 +74,7 @@ The Rewards Bar is a visual progress bar inside the cart drawer that motivates c
 
 <!-- screenshot: Style color pickers and animation toggle options | page: /cart-editor | element: .reward-bar-style | annotate: yes -->
 
-![Colors and style](.gitbook/assets/rewards-bar/step-4.png)
+![Colors and style](/.gitbook/assets/rewards-bar/step-4.png)
 
 ### Step 5: Preview and Save
 
@@ -83,6 +83,6 @@ The Rewards Bar is a visual progress bar inside the cart drawer that motivates c
 
 <!-- screenshot: Preview showing rewards bar with progress and Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/rewards-bar/step-5.png)
+![Preview and save](/.gitbook/assets/rewards-bar/step-5.png)
 
 Your rewards bar is now live. Customers will see their progress toward rewards as they shop, encouraging them to add more to their cart! 🚀

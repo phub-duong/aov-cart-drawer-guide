@@ -23,7 +23,7 @@ The Analytics section gives you a quick snapshot of how your cart drawer is perf
 
 <!-- screenshot: Overview section on the home page showing metrics | page: / | element: .overview-section | annotate: no -->
 
-![Analytics dashboard](.gitbook/assets/analytics/step-1.png)
+![Analytics dashboard](/.gitbook/assets/analytics/step-1.png)
 
 ### Step 2: Check Total Impressions
 
@@ -32,7 +32,7 @@ The Analytics section gives you a quick snapshot of how your cart drawer is perf
 
 <!-- screenshot: Total impressions metric card | page: / | element: .total-impressions-card | annotate: no -->
 
-![Total impressions](.gitbook/assets/analytics/step-2.png)
+![Total impressions](/.gitbook/assets/analytics/step-2.png)
 
 ### Step 3: Verify Embed Status
 
@@ -43,7 +43,7 @@ The Analytics section gives you a quick snapshot of how your cart drawer is perf
 
 <!-- screenshot: Embed status indicator showing On/Off with Embed settings link | page: / | element: .embed-status-card | annotate: yes -->
 
-![Embed status](.gitbook/assets/analytics/step-3.png)
+![Embed status](/.gitbook/assets/analytics/step-3.png)
 
 ### Step 4: Take Action Based on Data
 
@@ -55,6 +55,6 @@ The Analytics section gives you a quick snapshot of how your cart drawer is perf
 
 <!-- screenshot: Home page with overview metrics and quick action buttons | page: / | element: .home-overview | annotate: no -->
 
-![Take action based on data](.gitbook/assets/analytics/step-4.png)
+![Take action based on data](/.gitbook/assets/analytics/step-4.png)
 
 Keep an eye on your analytics to ensure the cart drawer is working at its best. Data-driven decisions lead to higher conversions! 🚀

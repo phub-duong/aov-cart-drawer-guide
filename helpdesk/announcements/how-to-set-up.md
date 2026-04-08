@@ -24,7 +24,7 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 <!-- screenshot: Announcements menu item in the Cart Editor sidebar | page: /cart-editor | element: .announcements-menu | annotate: yes -->
 
-![Open announcements settings](.gitbook/assets/announcements/step-1.png)
+![Open announcements settings](/.gitbook/assets/announcements/step-1.png)
 
 ### Step 2: Choose an Announcement Type
 
@@ -36,7 +36,7 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 <!-- screenshot: Announcements type selector showing Normal text, Cart reservation, Rotating, Running line | page: /cart-editor | element: .announcements-type-selector | annotate: yes -->
 
-![Choose announcement type](.gitbook/assets/announcements/step-2.png)
+![Choose announcement type](/.gitbook/assets/announcements/step-2.png)
 
 ### Step 3: Configure the Message and Timer
 
@@ -56,7 +56,7 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 <!-- screenshot: Message input field and timer configuration for Cart reservation | page: /cart-editor | element: .announcements-message-section | annotate: yes -->
 
-![Message and timer settings](.gitbook/assets/announcements/step-3.png)
+![Message and timer settings](/.gitbook/assets/announcements/step-3.png)
 
 ### Step 4: Customize Announcement Colors
 
@@ -68,7 +68,7 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 <!-- screenshot: Color settings for announcement bar | page: /cart-editor | element: .announcements-colors-section | annotate: yes -->
 
-![Announcement colors](.gitbook/assets/announcements/step-4.png)
+![Announcement colors](/.gitbook/assets/announcements/step-4.png)
 
 ### Step 5: Preview and Save
 
@@ -77,6 +77,6 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 <!-- screenshot: Preview showing announcement bar at top of cart drawer with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/announcements/step-5.png)
+![Preview and save](/.gitbook/assets/announcements/step-5.png)
 
 Your announcement is now active in the cart drawer. Use urgency and promotional messages to motivate customers to complete their purchase! 🚀

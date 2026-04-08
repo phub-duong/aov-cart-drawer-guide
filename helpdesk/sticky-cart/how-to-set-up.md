@@ -24,7 +24,7 @@ The Sticky Cart is a floating button that stays visible on your store as custome
 
 <!-- screenshot: Sticky Cart page with status toggle | page: /sticky-cart | element: .sticky-cart-status | annotate: yes -->
 
-![Enable sticky cart](.gitbook/assets/sticky-cart/step-1.png)
+![Enable sticky cart](/.gitbook/assets/sticky-cart/step-1.png)
 
 ### Step 2: Choose the Layout and Position
 
@@ -37,7 +37,7 @@ The Sticky Cart is a floating button that stays visible on your store as custome
 
 <!-- screenshot: Layout and Icon settings with corner button and side tab options | page: /sticky-cart | element: .layout-icon-section | annotate: yes -->
 
-![Layout and position settings](.gitbook/assets/sticky-cart/step-2.png)
+![Layout and position settings](/.gitbook/assets/sticky-cart/step-2.png)
 
 ### Step 3: Adjust Style and Spacing
 
@@ -49,7 +49,7 @@ The Sticky Cart is a floating button that stays visible on your store as custome
 
 <!-- screenshot: Style and Spacing settings with distance and roundness sliders | page: /sticky-cart | element: .style-spacing-section | annotate: yes -->
 
-![Style and spacing settings](.gitbook/assets/sticky-cart/step-3.png)
+![Style and spacing settings](/.gitbook/assets/sticky-cart/step-3.png)
 
 ### Step 4: Customize Colors and Advanced Settings
 
@@ -66,7 +66,7 @@ The Sticky Cart is a floating button that stays visible on your store as custome
 
 <!-- screenshot: Color pickers and advanced settings with click behavior and device visibility | page: /sticky-cart | element: .advanced-settings-section | annotate: yes -->
 
-![Colors and advanced settings](.gitbook/assets/sticky-cart/step-4.png)
+![Colors and advanced settings](/.gitbook/assets/sticky-cart/step-4.png)
 
 ### Step 5: Preview and Save
 
@@ -75,6 +75,6 @@ The Sticky Cart is a floating button that stays visible on your store as custome
 
 <!-- screenshot: Preview of sticky cart button with Save button | page: /sticky-cart | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/sticky-cart/step-5.png)
+![Preview and save](/.gitbook/assets/sticky-cart/step-5.png)
 
 Your sticky cart button is now live. Customers will see a floating cart icon as they browse your store, making it easy to check out at any time! 🚀

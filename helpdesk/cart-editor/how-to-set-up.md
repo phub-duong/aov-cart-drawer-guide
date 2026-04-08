@@ -25,7 +25,7 @@ The Cart Editor is the central hub where you build and customize every section o
 
 <!-- screenshot: Cart Editor main view with settings menu on left and preview on right | page: /cart-editor | element: .cart-editor-container | annotate: no -->
 
-![Cart Editor main view](.gitbook/assets/cart-editor/step-1.png)
+![Cart Editor main view](/.gitbook/assets/cart-editor/step-1.png)
 
 ### Step 2: Configure the Header
 
@@ -38,7 +38,7 @@ The Cart Editor is the central hub where you build and customize every section o
 
 <!-- screenshot: Header settings with cart title, text alignment, and logo options | page: /cart-editor | element: .header-content-section | annotate: yes -->
 
-![Header settings](.gitbook/assets/cart-editor/step-2.png)
+![Header settings](/.gitbook/assets/cart-editor/step-2.png)
 
 ### Step 3: Customize the Product Card
 
@@ -57,7 +57,7 @@ The Cart Editor is the central hub where you build and customize every section o
 
 <!-- screenshot: Product card settings with toggle options for variant, reviews, vendor, SKU | page: /cart-editor | element: .product-card-section | annotate: yes -->
 
-![Product card settings](.gitbook/assets/cart-editor/step-3.png)
+![Product card settings](/.gitbook/assets/cart-editor/step-3.png)
 
 ### Step 4: Set Up the Subtotal and Checkout Button
 
@@ -73,7 +73,7 @@ The Cart Editor is the central hub where you build and customize every section o
 
 <!-- screenshot: Subtotal and checkout button settings | page: /cart-editor | element: .checkout-button-section | annotate: yes -->
 
-![Subtotal and checkout button settings](.gitbook/assets/cart-editor/step-4.png)
+![Subtotal and checkout button settings](/.gitbook/assets/cart-editor/step-4.png)
 
 ### Step 5: Configure General Settings
 
@@ -89,7 +89,7 @@ The Cart Editor is the central hub where you build and customize every section o
 
 <!-- screenshot: General settings with open-on-add, cart width, and empty cart options | page: /cart-editor | element: .general-settings-section | annotate: yes -->
 
-![General settings](.gitbook/assets/cart-editor/step-5.png)
+![General settings](/.gitbook/assets/cart-editor/step-5.png)
 
 ### Step 6: Preview and Save
 
@@ -99,6 +99,6 @@ The Cart Editor is the central hub where you build and customize every section o
 
 <!-- screenshot: Preview panel with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/cart-editor/step-6.png)
+![Preview and save](/.gitbook/assets/cart-editor/step-6.png)
 
 Your cart drawer is now configured. Start customizing other features like **Announcements**, **Upsell Products**, and **Rewards Bar** to maximize your store's conversion rate! 🚀

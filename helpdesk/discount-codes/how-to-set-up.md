@@ -24,7 +24,7 @@ The Discount Codes feature adds a field inside the cart drawer where customers c
 
 <!-- screenshot: Discount codes menu item in the Cart Editor sidebar | page: /cart-editor | element: .discount-codes-menu | annotate: yes -->
 
-![Open discount codes settings](.gitbook/assets/discount-codes/step-1.png)
+![Open discount codes settings](/.gitbook/assets/discount-codes/step-1.png)
 
 ### Step 2: Configure Labels and Text
 
@@ -36,7 +36,7 @@ The Discount Codes feature adds a field inside the cart drawer where customers c
 
 <!-- screenshot: Discount codes label fields - trigger label, title, button label, placeholder, error message | page: /cart-editor | element: .discount-codes-labels | annotate: yes -->
 
-![Discount codes labels and text](.gitbook/assets/discount-codes/step-2.png)
+![Discount codes labels and text](/.gitbook/assets/discount-codes/step-2.png)
 
 ### Step 3: Configure Additional Options
 
@@ -47,7 +47,7 @@ The Discount Codes feature adds a field inside the cart drawer where customers c
 
 <!-- screenshot: Remove button toggle and discount limitations notice | page: /cart-editor | element: .discount-codes-options | annotate: yes -->
 
-![Additional options and limitations](.gitbook/assets/discount-codes/step-3.png)
+![Additional options and limitations](/.gitbook/assets/discount-codes/step-3.png)
 
 ### Step 4: Preview and Save
 
@@ -56,6 +56,6 @@ The Discount Codes feature adds a field inside the cart drawer where customers c
 
 <!-- screenshot: Preview showing discount codes section with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
-![Preview and save](.gitbook/assets/discount-codes/step-4.png)
+![Preview and save](/.gitbook/assets/discount-codes/step-4.png)
 
 Your discount codes field is now active in the cart drawer. Customers can apply their promo codes instantly and see their savings before checkout! 🚀

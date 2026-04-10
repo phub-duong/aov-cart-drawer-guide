@@ -17,8 +17,6 @@ The Design settings let you control the overall visual appearance of your cart d
 
 ## How to Set Up?
 
-### Step 1: Choose a Template
-
 1. Go to **AOV.ai Cart Drawer > Cart Editor**.
 2. Click **Design** in the left menu under **Settings**.
 3. Under **Template**, click **Choose template** to browse available designs:
@@ -30,11 +28,9 @@ The Design settings let you control the overall visual appearance of your cart d
 
 ![Choose template](/.gitbook/assets/design/step-1.png)
 
-### Step 2: Select a Preset Color Scheme
-
-1. Under **Preset**, browse the available color presets.
-2. Click any preset to instantly apply its color scheme to your cart drawer.
-3. (Optional) Click **Auto-match theme** to pull colors directly from your Shopify theme. Click repeatedly to preview different color schemes from your theme.
+5. Under **Preset**, browse the available color presets.
+6. Click any preset to instantly apply its color scheme to your cart drawer.
+7. (Optional) Click **Auto-match theme** to pull colors directly from your Shopify theme. Click repeatedly to preview different color schemes from your theme.
 
 > **Tip:** Auto-match theme is a great starting point. You can always fine-tune individual colors afterward.
 
@@ -42,9 +38,7 @@ The Design settings let you control the overall visual appearance of your cart d
 
 ![Preset color schemes](/.gitbook/assets/design/step-2.png)
 
-### Step 3: Customize Background Colors
-
-1. Under **Background**, set colors for each section of the cart drawer:
+8. Under **Background**, set colors for each section of the cart drawer:
    - **Header background** — The color behind the cart title and logo.
    - **Body background** — The color behind the product list area.
    - **Footer background** — The color behind the subtotal and checkout button.
@@ -53,35 +47,29 @@ The Design settings let you control the overall visual appearance of your cart d
 
 ![Background colors](/.gitbook/assets/design/step-3.png)
 
-### Step 4: Customize Button, Text, and Price Colors
-
-1. Under **Button**, configure:
+9. Under **Button**, configure:
    - **Background color** — The button's fill color.
    - **Button text color** — The text color on buttons.
    - (Optional) Toggle **Enable gradient background** and set **Gradient start color** and **Gradient end color** for a gradient button.
-2. Under **General**, set:
-   - **Text color** — The main text color throughout the drawer.
-   - **Icon color** — The color of icons.
-   - **Divider & delete icon color** — The color of section dividers and the product remove icon.
-3. Under **Price & discount**, set:
-   - **Price color** — The color of product prices.
-   - **Compare price color** — The color of the original strikethrough price.
-   - **Saving color** — The color of savings text.
-   - **Discount background** — The background color of discount badges.
-   - **Discount text & icon color** — The text and icon color inside discount badges.
+10. Under **General**, set:
+    - **Text color** — The main text color throughout the drawer.
+    - **Icon color** — The color of icons.
+    - **Divider & delete icon color** — The color of section dividers and the product remove icon.
+11. Under **Price & discount**, set:
+    - **Price color** — The color of product prices.
+    - **Compare price color** — The color of the original strikethrough price.
+    - **Saving color** — The color of savings text.
+    - **Discount background** — The background color of discount badges.
+    - **Discount text & icon color** — The text and icon color inside discount badges.
 
 <!-- screenshot: Button, general, and price color settings | page: /cart-editor | element: .design-colors-section | annotate: yes -->
 
 ![Button, text, and price colors](/.gitbook/assets/design/step-4.png)
 
-### Step 5: Add Custom CSS and Save
-
-1. (Optional) Scroll to **Custom CSS** and enter your own CSS rules to further customize the cart drawer's appearance. The placeholder reads: "Beauty your cart drawer with custom CSS."
-2. Review the live preview on the right to confirm your design changes.
-3. Click **Save** to apply all design settings.
+12. (Optional) Scroll to **Custom CSS** and enter your own CSS rules to further customize the cart drawer's appearance. The placeholder reads: "Beauty your cart drawer with custom CSS."
+13. Review the live preview on the right to confirm your design changes.
+14. Click **Save** to apply all design settings.
 
 <!-- screenshot: Custom CSS field and Save button | page: /cart-editor | element: .design-custom-css | annotate: yes -->
 
 ![Custom CSS and save](/.gitbook/assets/design/step-5.png)
-
-Your cart drawer design is now customized. A well-branded cart creates trust and keeps customers engaged all the way to checkout! 🚀

@@ -19,8 +19,6 @@ Shipping Protection adds an option inside the cart drawer that lets customers pr
 
 ## How to Set Up?
 
-### Step 1: Open Shipping Protection Settings
-
 1. Go to **AOV.ai Cart Drawer > Cart Editor**.
 2. Click **Shipping protection** in the left menu under **Body**.
 
@@ -30,33 +28,25 @@ Shipping Protection adds an option inside the cart drawer that lets customers pr
 
 ![Open shipping protection settings](/.gitbook/assets/shipping-protection/step-1.png)
 
-### Step 2: Configure the Title and Description
-
-1. Enter the **Title** — The heading shown for the shipping protection option (e.g., "Shipping Protection").
-2. Enter the **Description** — A short explanation of what the protection covers (e.g., "Protect your order against loss, damage, or theft").
+3. Enter the **Title** — The heading shown for the shipping protection option (e.g., "Shipping Protection").
+4. Enter the **Description** — A short explanation of what the protection covers (e.g., "Protect your order against loss, damage, or theft").
 
 <!-- screenshot: Title and description fields for shipping protection | page: /cart-editor | element: .shipping-protection-title-desc | annotate: yes -->
 
 ![Title and description](/.gitbook/assets/shipping-protection/step-2.png)
 
-### Step 3: Set the Price and Tooltip
-
-1. Enter the **Price** for shipping protection.
-2. Enter the **Tooltip content** — Additional details that appear when customers hover over the info icon.
+5. Enter the **Price** for shipping protection.
+6. Enter the **Tooltip content** — Additional details that appear when customers hover over the info icon.
 
 <!-- screenshot: Price and tooltip content fields | page: /cart-editor | element: .shipping-protection-price-tooltip | annotate: yes -->
 
 ![Price and tooltip settings](/.gitbook/assets/shipping-protection/step-3.png)
 
-### Step 4: Add a Product Image and Save
-
-1. Under **Product image**, select or upload an image for the shipping protection option.
-2. Review the **Shipping protection disclaimer** at the bottom — this reminds you that AOV Cart Drawer only provides a placeholder product and does not offer actual coverage.
-3. Review the shipping protection option in the live preview on the right panel.
-4. Click **Save** to apply your settings.
+7. Under **Product image**, select or upload an image for the shipping protection option.
+8. Review the **Shipping protection disclaimer** at the bottom — this reminds you that AOV Cart Drawer only provides a placeholder product and does not offer actual coverage.
+9. Review the shipping protection option in the live preview on the right panel.
+10. Click **Save** to apply your settings.
 
 <!-- screenshot: Product image selector, disclaimer, and Save button | page: /cart-editor | element: .shipping-protection-image-section | annotate: yes -->
 
 ![Product image and save](/.gitbook/assets/shipping-protection/step-4.png)
-
-Your shipping protection option is now available in the cart drawer. Customers can opt in with a single click for added peace of mind! 🚀

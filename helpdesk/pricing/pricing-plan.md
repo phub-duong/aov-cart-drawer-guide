@@ -1,20 +1,18 @@
 # Pricing Plan
 
-AOV.ai Cart Drawer uses a **Shopify plan-based pricing model**. Your plan is automatically determined by your current Shopify subscription tier.
+AOV.ai Cart Drawer pricing is based on your **Shopify plan tier** — the app automatically matches it.
 
-## Plans Overview
+## Plans
 
-| Plan | Price | Orders/month | Features |
-|------|-------|-------------|----------|
-| **Free** | $0 | Up to 50 (via cart drawer) | Limited (see below) |
+| Plan | Price | Orders generated/month | Features |
+|------|-------|----------------------|----------|
+| **Free** | $0 | Up to 50 | Limited |
 | **Basic** | $15.99/month | Unlimited | All features |
 | **Pro** | $25.99/month | Unlimited | All features |
 | **Advanced** | $45.99/month | Unlimited | All features |
 | **Plus** | $85.99/month | Unlimited | All features |
 
 ## Shopify Plan Mapping
-
-Your Cart Drawer plan is mapped to your Shopify subscription:
 
 | Shopify Plan | Cart Drawer Plan |
 |-------------|-----------------|
@@ -23,16 +21,15 @@ Your Cart Drawer plan is mapped to your Shopify subscription:
 | Advanced | Advanced ($45.99/month) |
 | Plus | Plus ($85.99/month) |
 
-> **Note:** You don't choose a plan manually. The app automatically matches your Shopify plan tier. If you upgrade or downgrade your Shopify plan, your Cart Drawer plan adjusts accordingly.
+> **Note:** Your plan adjusts automatically when you upgrade or downgrade your Shopify subscription.
 
 ## Feature Comparison
 
-| Feature | Free | Paid (Basic, Pro, Advanced, Plus) |
-|---------|:----:|:---------------------------------:|
-| **Orders/month** | Up to 50 | Unlimited |
-| Cart Drawer | ✅ | ✅ |
-| Cart Editor | ✅ | ✅ |
-| Templates & Design | Basic | All templates |
+| Feature | Free | Paid |
+|---------|:----:|:----:|
+| **Orders generated/month** | Up to 50 | Unlimited |
+| Cart Drawer & Cart Editor | ✅ | ✅ |
+| Templates & Design | Basic | All |
 | Announcements | ❌ | ✅ |
 | Upsell Products | ❌ | ✅ |
 | Discount Codes | ❌ | ✅ |
@@ -44,11 +41,12 @@ Your Cart Drawer plan is mapped to your Shopify subscription:
 | Sticky Cart | ❌ | ✅ |
 | Analytics | ❌ | ✅ |
 
-## How to View Your Current Plan
+## Free Plan Quota
 
-1. Open **AOV.ai Cart Drawer** in your Shopify admin.
-2. Go to **Settings** or check the **Dashboard** — your current plan and billing status are displayed.
+The Free plan allows **50 orders generated per month** via the cart drawer.
 
-## Upgrading
+- **When you hit the limit:** The cart drawer stops appearing for new customers.
+- **Reset:** Your count resets every **30 days** from your installation date. The cart drawer reactivates automatically.
+- **Check usage:** Go to the app **Dashboard** to see your current count.
 
-To access all features, simply upgrade your Shopify plan. Your Cart Drawer plan will automatically adjust to match.
+Upgrade to any paid plan for unlimited orders generated.

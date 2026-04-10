@@ -8,10 +8,6 @@
 
 * [How to Set Up Your Cart](helpdesk/cart-editor/how-to-set-up.md)
 
-## 📌 Sticky Cart
-
-* [How to Set Up](helpdesk/sticky-cart/how-to-set-up.md)
-
 ## 🎨 Design & Templates
 
 * [How to Customize](helpdesk/design/how-to-customize.md)
@@ -47,6 +43,10 @@
 ## 🎯 Slide Cart Offer
 
 * [How to Set Up](helpdesk/slide-cart-offer/how-to-set-up.md)
+
+## 📌 Sticky Cart
+
+* [How to Set Up](helpdesk/sticky-cart/how-to-set-up.md)
 
 ## 📊 Analytics
 

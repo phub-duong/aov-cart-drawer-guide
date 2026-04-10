@@ -46,7 +46,7 @@ AOV.ai Cart Drawer pricing is based on your **Shopify plan tier** — the app au
 The Free plan allows **50 orders generated per month** via the cart drawer.
 
 - **When you hit the limit:** The cart drawer stops appearing for new customers.
-- **Reset:** Your count resets every **30 days** from your installation date. The cart drawer reactivates automatically.
+- **Reset:** Your count resets every **30 days** from your installation date. For example, if you installed the app on April 14, your quota resets on May 14. The cart drawer reactivates automatically.
 - **Check usage:** Go to the app **Dashboard** to see your current count.
 
 Upgrade to any paid plan for unlimited orders generated.

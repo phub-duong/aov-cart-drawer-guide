@@ -52,3 +52,7 @@ The Free plan allows **50 orders generated per month** via the cart drawer.
 - **Check usage:** Go to the app **Dashboard** to see your current count.
 
 Upgrade to any paid plan for unlimited orders generated.
+
+## Related
+
+- [Definition of Orders Generated](definition-of-orders-generated.md) — Learn which orders count toward your quota.

@@ -17,6 +17,8 @@ Gift Wrap adds an option inside the cart drawer that lets customers request gift
 
 ## How to Set Up?
 
+### Step 1: Open Gift Wrap Settings
+
 1. Go to **AOV.ai Cart Drawer > Cart Editor**.
 2. Click **Gift wrap** in the left menu under **Body**.
 
@@ -26,23 +28,31 @@ Gift Wrap adds an option inside the cart drawer that lets customers request gift
 
 ![Open gift wrap settings](/.gitbook/assets/gift-wrap/step-1.png)
 
-3. Enter the **Product name** — The name of the gift wrap product as it appears in the cart.
-4. Enter the **Title** — The heading shown above the gift wrap option in the cart drawer (e.g., "Add gift wrapping?").
+### Step 2: Configure the Product Name and Title
+
+1. Enter the **Product name** — The name of the gift wrap product as it appears in the cart.
+2. Enter the **Title** — The heading shown above the gift wrap option in the cart drawer (e.g., "Add gift wrapping?").
 
 <!-- screenshot: Product name and title fields for gift wrap | page: /cart-editor | element: .gift-wrap-name-title | annotate: yes -->
 
 ![Product name and title](/.gitbook/assets/gift-wrap/step-2.png)
 
-5. Enter the **Price** for the gift wrap add-on.
-6. Under **Image**, select or upload an image that represents the gift wrap option. Click **Browse images** to choose from your existing Shopify product images, or upload a new one.
+### Step 3: Set the Price and Image
+
+1. Enter the **Price** for the gift wrap add-on.
+2. Under **Image**, select or upload an image that represents the gift wrap option. Click **Browse images** to choose from your existing Shopify product images, or upload a new one.
 
 <!-- screenshot: Price field and image selector for gift wrap | page: /cart-editor | element: .gift-wrap-price-image | annotate: yes -->
 
 ![Price and image settings](/.gitbook/assets/gift-wrap/step-3.png)
 
-7. Review the gift wrap option in the live preview on the right panel.
-8. Click **Save** to apply your settings.
+### Step 4: Preview and Save
+
+1. Review the gift wrap option in the live preview on the right panel.
+2. Click **Save** to apply your settings.
 
 <!-- screenshot: Preview showing gift wrap option in cart drawer with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
 ![Preview and save](/.gitbook/assets/gift-wrap/step-4.png)
+
+Your gift wrap option is now available in the cart drawer. Customers can add it with a single click, making every order feel special! 🚀

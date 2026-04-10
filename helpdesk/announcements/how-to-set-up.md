@@ -17,6 +17,8 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 ## How to Set Up?
 
+### Step 1: Open Announcements Settings
+
 1. Go to **AOV.ai Cart Drawer > Cart Editor**.
 2. Click **Announcements** in the left menu under **Body**.
 
@@ -24,7 +26,9 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 ![Open announcements settings](/.gitbook/assets/announcements/step-1.png)
 
-3. Under **Announcements type**, select one:
+### Step 2: Choose an Announcement Type
+
+1. Under **Announcements type**, select one:
    - **Normal text** — A single static message displayed at the top of the drawer.
    - **Cart reservation** — A countdown timer that reserves the cart for a set duration, creating urgency.
    - **Rotating** — Multiple messages that cycle through automatically, like a carousel.
@@ -34,25 +38,29 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 ![Choose announcement type](/.gitbook/assets/announcements/step-2.png)
 
-4. Enter your **Announcement message**. You can use markdown formatting:
+### Step 3: Configure the Message and Timer
+
+1. Enter your **Announcement message**. You can use markdown formatting:
    - Use `**content**` for **bold** text.
    - Use `*content*` for *italic* text.
-5. If you selected **Cart reservation**, configure:
+2. If you selected **Cart reservation**, configure:
    - **Timer duration (minutes)** — How long the reservation countdown lasts.
    - **Action when time's up** — Choose what happens when the timer runs out:
      - **Hide the countdown** — Simply removes the timer.
      - **Repeat the countdown** — Restarts the timer automatically.
      - **Remove all items** — Clears the cart when time expires.
-6. If you selected **Rotating**, click **Add new message** to add multiple messages and set:
+3. If you selected **Rotating**, click **Add new message** to add multiple messages and set:
    - **Announcement carousel auto play** toggle.
    - **Interval (Seconds)** — How long each message displays before rotating.
-7. If you selected **Running line**, enter the scrolling message text.
+4. If you selected **Running line**, enter the scrolling message text.
 
 <!-- screenshot: Message input field and timer configuration for Cart reservation | page: /cart-editor | element: .announcements-message-section | annotate: yes -->
 
 ![Message and timer settings](/.gitbook/assets/announcements/step-3.png)
 
-8. Under **Colors**, set the visual style:
+### Step 4: Customize Announcement Colors
+
+1. Under **Colors**, set the visual style:
    - **Background color** — The background of the announcement bar.
    - **Text color** — The color of the announcement message.
    - **Countdown timer color** — The color of the timer digits (for Cart reservation type).
@@ -62,9 +70,13 @@ Announcements are short messages displayed at the top of your cart drawer. They 
 
 ![Announcement colors](/.gitbook/assets/announcements/step-4.png)
 
-9. Review the announcement in the live preview on the right panel.
-10. Click **Save** to apply your announcement settings.
+### Step 5: Preview and Save
+
+1. Review the announcement in the live preview on the right panel.
+2. Click **Save** to apply your announcement settings.
 
 <!-- screenshot: Preview showing announcement bar at top of cart drawer with Save button | page: /cart-editor | element: button:has-text('Save') | annotate: yes -->
 
 ![Preview and save](/.gitbook/assets/announcements/step-5.png)
+
+Your announcement is now active in the cart drawer. Use urgency and promotional messages to motivate customers to complete their purchase! 🚀

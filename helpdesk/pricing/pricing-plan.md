@@ -25,32 +25,24 @@ Your Cart Drawer plan is mapped to your Shopify subscription:
 
 > **Note:** You don't choose a plan manually. The app automatically matches your Shopify plan tier. If you upgrade or downgrade your Shopify plan, your Cart Drawer plan adjusts accordingly.
 
-## What's Included in Free Plan
+## Feature Comparison
 
-The Free plan lets you use the cart drawer with a **limit of 50 orders per month** processed through it. You get access to basic features including:
-
-- Cart drawer with customizable design
-- Basic template selection
-
-For full feature access (upsell products, rewards bar, announcements, discount codes, gift wrap, shipping protection, trust badges, sticky cart, slide cart offer, and analytics), upgrade to any paid plan.
-
-## What's Included in Paid Plans
-
-All paid plans (Basic, Pro, Advanced, Plus) include:
-
-- **Unlimited orders** through the cart drawer
-- Cart Editor with full customization
-- All templates and design options
-- Announcements
-- Upsell Products
-- Discount Codes
-- Rewards Bar
-- Trust Badges
-- Gift Wrap
-- Shipping Protection
-- Slide Cart Offer
-- Sticky Cart
-- Analytics dashboard
+| Feature | Free | Paid (Basic, Pro, Advanced, Plus) |
+|---------|:----:|:---------------------------------:|
+| **Orders/month** | Up to 50 | Unlimited |
+| Cart Drawer | ✅ | ✅ |
+| Cart Editor | ✅ | ✅ |
+| Templates & Design | Basic | All templates |
+| Announcements | ❌ | ✅ |
+| Upsell Products | ❌ | ✅ |
+| Discount Codes | ❌ | ✅ |
+| Rewards Bar | ❌ | ✅ |
+| Trust Badges | ❌ | ✅ |
+| Gift Wrap | ❌ | ✅ |
+| Shipping Protection | ❌ | ✅ |
+| Slide Cart Offer | ❌ | ✅ |
+| Sticky Cart | ❌ | ✅ |
+| Analytics | ❌ | ✅ |
 
 ## How to View Your Current Plan
 

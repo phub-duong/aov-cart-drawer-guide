@@ -4,7 +4,7 @@
 
 ## 🛒 Cart Editor
 
-* [How to Set Up](helpdesk/cart-editor/how-to-set-up.md)
+* [How to Set Up Your Cart](helpdesk/cart-editor/how-to-set-up.md)
 
 ## 📌 Sticky Cart
 

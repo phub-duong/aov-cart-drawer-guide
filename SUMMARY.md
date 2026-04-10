@@ -52,6 +52,11 @@
 
 * [Overview](helpdesk/analytics/overview.md)
 
+## 💰 Pricing
+
+* [Pricing Plan](helpdesk/pricing/pricing-plan.md)
+* [Quota Usage for Free Plan](helpdesk/pricing/quota-usage-for-free-plan.md)
+
 ## ❓ FAQ
 
 * [Frequently Asked Questions](helpdesk/faq.md)

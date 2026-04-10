@@ -56,6 +56,7 @@
 
 * [Pricing Plan](helpdesk/pricing/pricing-plan.md)
 * [Quota Usage for Free Plan](helpdesk/pricing/quota-usage-for-free-plan.md)
+* [Definition of Orders Generated](helpdesk/pricing/definition-of-orders-generated.md)
 
 ## ❓ FAQ
 

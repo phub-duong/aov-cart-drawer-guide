@@ -4,6 +4,8 @@
 
 The Rewards Bar is a visual progress bar inside the cart drawer that motivates customers to add more items or spend more to unlock tiered rewards. Rewards can include free shipping, order discounts, or free products — displayed as milestones that customers work toward.
 
+![Rewards Bar in cart drawer](/.gitbook/assets/rewards-bar/what-is.png)
+
 ## Why use the Rewards Bar?
 
 - **Increase average order value** — Tiered goals give customers a clear incentive to add more to their cart.

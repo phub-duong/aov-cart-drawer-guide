@@ -4,6 +4,8 @@
 
 Announcements are short messages displayed at the top of your cart drawer. They can be used to create urgency, promote offers, or communicate important information. You can choose from several styles including static text, cart reservation countdowns, rotating messages, and running-line (marquee) text.
 
+![Announcements in cart drawer](/.gitbook/assets/announcements/what-is.png)
+
 ## Why use Announcements?
 
 - **Create urgency** — A cart reservation timer motivates customers to complete their purchase before items are released.

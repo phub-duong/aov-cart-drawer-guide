@@ -4,6 +4,8 @@
 
 Trust Badges are small icons displayed in the cart drawer that reassure customers about payment security, shipping reliability, and purchase guarantees. They help build confidence right at the moment of purchase.
 
+![Trust Badges in cart drawer](/.gitbook/assets/trust-badges/what-is.png)
+
 ## Why use Trust Badges?
 
 - **Build buyer confidence** — Security and payment icons reassure customers that their transaction is safe.

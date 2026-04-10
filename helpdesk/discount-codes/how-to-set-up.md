@@ -4,6 +4,8 @@
 
 The Discount Codes feature adds a field inside the cart drawer where customers can enter and apply discount codes before proceeding to checkout. This saves them from having to wait until the checkout page to see their savings.
 
+![Discount Codes in cart drawer](/.gitbook/assets/discount-codes/what-is.png)
+
 ## Why use Discount Codes?
 
 - **Reduce friction** — Customers can apply discounts right in the cart drawer, making the experience faster and smoother.

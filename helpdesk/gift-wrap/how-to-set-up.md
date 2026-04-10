@@ -4,6 +4,8 @@
 
 Gift Wrap adds an option inside the cart drawer that lets customers request gift wrapping for their order. With a single click, customers can add a gift-wrap product to their cart — perfect for holidays, birthdays, and special occasions.
 
+![Gift Wrap in cart drawer](/.gitbook/assets/gift-wrap/what-is.png)
+
 ## Why use Gift Wrap?
 
 - **Enhance customer experience** — Offering gift wrap shows you care about the gifting experience and adds a personal touch.

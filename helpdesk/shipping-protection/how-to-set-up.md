@@ -4,6 +4,8 @@
 
 Shipping Protection adds an option inside the cart drawer that lets customers protect their order against loss, damage, or theft during shipping. Customers can toggle it on with a single click, giving them peace of mind while generating additional revenue for your store.
 
+![Shipping Protection in cart drawer](/.gitbook/assets/shipping-protection/what-is.png)
+
 ## Why use Shipping Protection?
 
 - **Customer peace of mind** — Shoppers feel more confident knowing their order is protected.

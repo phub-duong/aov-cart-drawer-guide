@@ -4,6 +4,8 @@
 
 The Cart Editor is the central hub where you build and customize every section of your slide-out cart drawer. From the header and product cards to the subtotal area and checkout button, you control exactly how your cart looks and behaves.
 
+![Cart Editor overview](/.gitbook/assets/cart-editor/what-is.png)
+
 ## Why use the Cart Editor?
 
 - **Full control over your cart layout** — Customize the header, product cards, subtotal, and checkout button to match your brand and shopping experience.

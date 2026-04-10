@@ -4,6 +4,8 @@
 
 Upsell Products lets you display additional product recommendations inside the cart drawer. When a customer opens their cart, they see suggested items they can add with one click — boosting your average order value without interrupting the shopping flow.
 
+![Upsell Products in cart drawer](/.gitbook/assets/upsell-products/what-is.png)
+
 ## Why use Upsell Products?
 
 - **Increase average order value** — Show relevant products that complement what the customer already has in their cart.

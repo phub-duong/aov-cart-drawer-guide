@@ -4,6 +4,8 @@
 
 Slide Cart Offer integrates with the **AOV.ai Free Gifts** app to display promotional campaigns directly inside the cart drawer. This includes Buy X Get Y deals, gifts with cart value, quantity-based gifts, and more — all shown in a dedicated "Today's offer" tab within the cart.
 
+![Slide Cart Offer in cart drawer](/.gitbook/assets/slide-cart-offer/what-is.png)
+
 ## Why use Slide Cart Offer?
 
 - **Powerful promotions in the cart** — Show free gift offers right where the buying decision happens.

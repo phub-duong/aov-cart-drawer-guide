@@ -21,21 +21,9 @@ This guide is for Shopify merchants using the **AOV.ai Cart Drawer** app. Whethe
 <tbody>
 
 <tr>
-<td><strong>Cart Editor</strong></td>
-<td>Build and customize your cart drawer layout — header, product cards, subtotal, and checkout button.</td>
-<td><a href="helpdesk/cart-editor/how-to-set-up.md">how-to-set-up.md</a></td>
-</tr>
-
-<tr>
 <td><strong>Sticky Cart</strong></td>
 <td>Add a floating cart button so customers can open the drawer from anywhere on the page.</td>
 <td><a href="helpdesk/sticky-cart/how-to-set-up.md">how-to-set-up.md</a></td>
-</tr>
-
-<tr>
-<td><strong>Design & Templates</strong></td>
-<td>Choose a template, pick preset colors, or fully customize every color in the cart drawer.</td>
-<td><a href="helpdesk/design/how-to-customize.md">how-to-customize.md</a></td>
 </tr>
 
 <tr>
@@ -84,12 +72,6 @@ This guide is for Shopify merchants using the **AOV.ai Cart Drawer** app. Whethe
 <td><strong>Slide Cart Offer</strong></td>
 <td>Integrate with AOV Free Gifts to show promotional offers inside the cart drawer.</td>
 <td><a href="helpdesk/slide-cart-offer/how-to-set-up.md">how-to-set-up.md</a></td>
-</tr>
-
-<tr>
-<td><strong>Analytics</strong></td>
-<td>Track total impressions and monitor your cart drawer's embed status.</td>
-<td><a href="helpdesk/analytics/overview.md">overview.md</a></td>
 </tr>
 
 </tbody>

@@ -40,17 +40,9 @@
 
 * [How to Set Up](helpdesk/shipping-protection/how-to-set-up.md)
 
-## 🎯 Slide Cart Offer
-
-* [How to Set Up](helpdesk/slide-cart-offer/how-to-set-up.md)
-
 ## 📌 Sticky Cart
 
 * [How to Set Up](helpdesk/sticky-cart/how-to-set-up.md)
-
-## 📊 Analytics
-
-* [Overview](helpdesk/analytics/overview.md)
 
 ## 💰 Pricing
 

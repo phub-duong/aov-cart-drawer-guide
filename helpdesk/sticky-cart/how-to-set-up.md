@@ -4,6 +4,8 @@
 
 The Sticky Cart is a floating button that stays visible on your store as customers scroll. When clicked, it opens the cart drawer instantly — so shoppers can review their cart without navigating away from the current page.
 
+![Sticky Cart floating button](/.gitbook/assets/sticky-cart/what-is.png)
+
 ## Why use the Sticky Cart?
 
 - **Always accessible** — A persistent cart button means customers can check their cart at any time, from any page.

@@ -10,7 +10,7 @@
 
 ## 🎨 Design & Templates
 
-* [How to Customize](helpdesk/design/how-to-customize.md)
+* [How to Customize your Cart](helpdesk/design/how-to-customize.md)
 
 ## 📢 Announcements
 

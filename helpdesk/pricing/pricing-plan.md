@@ -1,6 +1,6 @@
 # Pricing Plan
 
-AOV.ai Cart Drawer pricing is based on your **Shopify plan tier** — the app automatically matches it.
+AOV.ai Cart Drawer pricing is based on your **Shopify plan** — the app automatically matches it.
 
 ## Plans
 
@@ -12,27 +12,24 @@ AOV.ai Cart Drawer pricing is based on your **Shopify plan tier** — the app au
 | **Advanced** | $45.99/month | Unlimited              | All features |
 | **Plus**     | $85.99/month | Unlimited              | All features |
 
-> **Note:** Your plan adjusts automatically when you upgrade or downgrade your Shopify subscription.
+> **Note:** Your plan price is fixed based on your Shopify plan at the moment of subscription
 
 ## Feature Comparison
 
 | Feature                    |    Free    |    Paid    |
 | -------------------------- | :--------: | :--------: |
 | **Orders generated/month** |  Up to 30  |  Unlimited |
-| Cart Drawer & Cart Editor  |      ✅     |      ✅     |
-| Templates & Design         |    Basic   |     All    |
+| Rewards Bar                | Max 1 tier | Multi-tier |
 | Announcements              |      ✅     |      ✅     |
 | Upsell Manual item         |      ✅     |      ✅     |
+| Discount Codes             |      ✅     |      ✅     |
+| Trust Badges               |      ✅     |      ✅     |
+| Sticky Cart                |      ✅     |      ✅     |
 | Upsell AI-recommendation   |      ❌     |      ✅     |
 | Upsell best selling        |      ❌     |      ✅     |
 | Reviews on upsell          |      ❌     |      ✅     |
-| Discount Codes             |      ✅     |      ✅     |
-| Rewards Bar                | Max 1 tier | Multi-tier |
-| Trust Badges               |      ✅     |      ✅     |
 | Gift Wrap                  |      ❌     |      ✅     |
 | Shipping Protection        |      ❌     |      ✅     |
-| Slide Cart Offer           |      ✅     |      ✅     |
-| Sticky Cart                |      ✅     |      ✅     |
 
 ## Free Plan Quota
 

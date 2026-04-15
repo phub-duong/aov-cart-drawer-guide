@@ -9,7 +9,7 @@
 * [How to Set Up Your Cart](helpdesk/cart-editor/how-to-set-up.md)
 * [How to Customize your Cart](cart-editor/how-to-customize.md)
 
-## 📢 HEADER
+## 🖼️ HEADER
 
 * [Header](header/header.md)
 

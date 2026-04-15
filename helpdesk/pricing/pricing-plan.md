@@ -4,7 +4,7 @@ AOV.ai Cart Drawer pricing is based on your **Shopify plan tier** — the app au
 
 ## Plans
 
-| Plan         | Price        | Orders generated/month | Features     |
+| Shopify Plan | Price        | Orders generated/month | Features     |
 | ------------ | ------------ | ---------------------- | ------------ |
 | **Free**     | $0           | Up to 30               | Limited      |
 | **Basic**    | $15.99/month | Unlimited              | All features |
@@ -12,34 +12,27 @@ AOV.ai Cart Drawer pricing is based on your **Shopify plan tier** — the app au
 | **Advanced** | $45.99/month | Unlimited              | All features |
 | **Plus**     | $85.99/month | Unlimited              | All features |
 
-## Shopify Plan Mapping
-
-| Shopify Plan | Cart Drawer Plan        |
-| ------------ | ----------------------- |
-| Basic        | Basic ($15.99/month)    |
-| Grow         | Pro ($25.99/month)      |
-| Advanced     | Advanced ($45.99/month) |
-| Plus         | Plus ($85.99/month)     |
-
 > **Note:** Your plan adjusts automatically when you upgrade or downgrade your Shopify subscription.
 
 ## Feature Comparison
 
-| Feature                    |   Free   |    Paid   |
-| -------------------------- | :------: | :-------: |
-| **Orders generated/month** | Up to 30 | Unlimited |
-| Cart Drawer & Cart Editor  |     ✅    |     ✅     |
-| Templates & Design         |   Basic  |    All    |
-| Announcements              |     ❌    |     ✅     |
-| Upsell Products            |     ❌    |     ✅     |
-| Discount Codes             |     ❌    |     ✅     |
-| Rewards Bar                |     ❌    |     ✅     |
-| Trust Badges               |     ❌    |     ✅     |
-| Gift Wrap                  |     ❌    |     ✅     |
-| Shipping Protection        |     ❌    |     ✅     |
-| Slide Cart Offer           |     ❌    |     ✅     |
-| Sticky Cart                |     ❌    |     ✅     |
-| Analytics                  |     ❌    |     ✅     |
+| Feature                    |    Free    |    Paid    |
+| -------------------------- | :--------: | :--------: |
+| **Orders generated/month** |  Up to 30  |  Unlimited |
+| Cart Drawer & Cart Editor  |      ✅     |      ✅     |
+| Templates & Design         |    Basic   |     All    |
+| Announcements              |      ✅     |      ✅     |
+| Upsell Manual item         |      ✅     |      ✅     |
+| Upsell AI-recommendation   |      ❌     |      ✅     |
+| Upsell best selling        |      ❌     |      ✅     |
+| Reviews on upsell          |      ❌     |      ✅     |
+| Discount Codes             |      ✅     |      ✅     |
+| Rewards Bar                | Max 1 tier | Multi-tier |
+| Trust Badges               |      ✅     |      ✅     |
+| Gift Wrap                  |      ❌     |      ✅     |
+| Shipping Protection        |      ❌     |      ✅     |
+| Slide Cart Offer           |      ✅     |      ✅     |
+| Sticky Cart                |      ✅     |      ✅     |
 
 ## Free Plan Quota
 

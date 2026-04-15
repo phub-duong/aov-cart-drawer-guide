@@ -2,43 +2,29 @@
 
 ## 🚀 Getting Started
 
-* [Welcome](helpdesk-index.md)
+* [Welcome to AOV.ai Cart Drawer ️🎉](helpdesk-index.md)
 
 ## 🛒 Cart Editor
 
 * [How to Set Up Your Cart](helpdesk/cart-editor/how-to-set-up.md)
+* [How to Customize your Cart](cart-editor/how-to-customize.md)
 
-## 🎨 Design & Templates
+## 📢 HEADER
 
-* [How to Customize your Cart](helpdesk/design/how-to-customize.md)
+* [Header](header/header.md)
 
-## 📢 Announcements
+## 🛍️ BODY
 
-* [How to Set Up](helpdesk/announcements/how-to-set-up.md)
+* [Annoucements](body/how-to-set-up.md)
+* [Rewards Bar](body/how-to-set-up-1.md)
+* [Upsell Products](body/how-to-set-up-2.md)
 
-## 🛍️ Upsell Products
+## 🏷️ FOOTER
 
-* [How to Set Up](helpdesk/upsell-products/how-to-set-up.md)
-
-## 🏷️ Discount Codes
-
-* [How to Set Up](helpdesk/discount-codes/how-to-set-up.md)
-
-## 🏆 Rewards Bar
-
-* [How to Set Up](helpdesk/rewards-bar/how-to-set-up.md)
-
-## 🛡️ Trust Badges
-
-* [How to Set Up](helpdesk/trust-badges/how-to-set-up.md)
-
-## 🎁 Gift Wrap
-
-* [How to Set Up](helpdesk/gift-wrap/how-to-set-up.md)
-
-## 📦 Shipping Protection
-
-* [How to Set Up](helpdesk/shipping-protection/how-to-set-up.md)
+* [Gift Wrap](footer/how-to-set-up.md)
+* [Shipping Protection](footer/how-to-set-up-1.md)
+* [Discount Codes](footer/how-to-set-up-2.md)
+* [Trust Badges](footer/how-to-set-up-3.md)
 
 ## 📌 Sticky Cart
 

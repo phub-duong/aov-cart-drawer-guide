@@ -4,13 +4,15 @@ AOV.ai Cart Drawer pricing is based on your **Shopify plan** — the app automat
 
 ## Plans
 
-| Shopify Plan | Price        | Orders generated/month | Features     |
-| ------------ | ------------ | ---------------------- | ------------ |
-| **Free**     | $0           | Up to 30               | Limited      |
-| **Basic**    | $15.99/month | Unlimited              | All features |
-| **Pro**      | $25.99/month | Unlimited              | All features |
-| **Advanced** | $45.99/month | Unlimited              | All features |
-| **Plus**     | $85.99/month | Unlimited              | All features |
+
+
+| App Plan | Shopify Plan | Price        | Orders generated/month | Features     |
+| -------- | ------------ | ------------ | ---------------------- | ------------ |
+| Free     | All Plan     | $0           | Up to 30               | Limited      |
+| Paid     | Basic        | $15.99/month | Unlimited              | All features |
+| Paid     | Pro          | $25.99/month | Unlimited              | All features |
+| Paid     | Advanced     | $45.99/month | Unlimited              | All features |
+| Paid     | Plus         | $85.99/month | Unlimited              | All features |
 
 > **Note:** Your plan price is fixed based on your Shopify plan at the moment of subscription
 

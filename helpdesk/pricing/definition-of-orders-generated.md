@@ -24,6 +24,7 @@ The following are **not** counted toward your order quota:
 | Scenario                                                                            | Counted?              |
 | ----------------------------------------------------------------------------------- | --------------------- |
 | Customer adds item, opens cart drawer, clicks Checkout, completes order             | Yes                   |
+| Customer checkout from cart drawer and redirect to cart page                        | Yes                   |
 | Customer goes to `/cart` page directly and checks out                               | No                    |
 | Customer opens cart drawer, leaves site, returns later and checks out via cart page | No                    |
 | Customer opens cart drawer, completes checkout, then requests refund                | Yes (already counted) |
